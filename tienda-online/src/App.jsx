@@ -1,9 +1,12 @@
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-    <h1>asd</h1>
+    <h1>
+      asd
+    </h1>
+    <routes>
+      <route path='/' element={<></>}/>
+    </routes>
     </>
   )
 }
