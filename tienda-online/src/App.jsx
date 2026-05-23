@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router"
-import Error404 from "./components/Error404.jsx"
+import Error404 from "./pages/Error404.jsx"
 import Header from "./components/Header.jsx"
 
 function App() {
